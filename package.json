@@ -9,7 +9,6 @@
     "test": "jest",
     "eslint": "eslint './**/*.{js,jsx}'",
     "build": "webpack --mode production",
-    "test:e2e": "cypress.js"
   },
   "repository": {
     "type": "git",
